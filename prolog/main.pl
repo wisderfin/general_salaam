@@ -1,0 +1,1 @@
+?- write('Hello, wisderfin :)'), nl.
